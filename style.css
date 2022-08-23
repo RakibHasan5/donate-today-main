@@ -1,0 +1,184 @@
+body {
+    margin: 0;
+    /* font-family: 'DynaPuff', cursive; */
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* !st part */
+.banner-area {
+    background-image: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+}
+
+.text-area {
+    width: 100%;
+    padding: 200px 0px;
+    text-align: center;
+    color: aliceblue;
+}
+
+#font-weight {
+    font-size: 80px;
+    font-weight: lighter;
+}
+
+.button {
+    font-size: 30px;
+    color: aliceblue;
+    text-decoration: none;
+    background-color: #ff5959;
+    padding: 15px 40px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 2nd part of css */
+.middle-text-area {
+    text-align: center;
+    padding: 100px 0px;
+    /* font-size: 30px; */
+}
+
+#text-size {
+    font-size: 60px;
+}
+
+#text-size2 {
+    color: rgb(152, 148, 148);
+}
+
+.middle-box-area {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    color: gray;
+}
+
+.box-area {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(228, 226, 226, 0.384);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+}
+
+#box {
+    background-color: rgba(247, 195, 195, 0.418);
+    border: 3px solid tomato;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+}
+
+
+.middle-button-area {
+    text-align: center;
+    margin-top: 75px;
+}
+
+#text {
+    color: rgba(188, 186, 186, 0.392);
+    font-weight: 100;
+}
+
+.underline {
+    margin-bottom: 50px;
+    width: 50%;
+    height: 2px;
+    background-color: rgba(195, 192, 192, 0.512);
+    display: inline-block;
+}
+
+#button {
+    font-size: 30px;
+    color: aliceblue;
+    text-decoration: none;
+    background-color: #ff5959;
+    padding: 15px 40px;
+    border-radius: 10px;
+}
+
+/* 3rd part of css */
+
+
+.middle2-text-area {
+    text-align: center;
+    margin: 200px 0 50px 0;
+}
+
+.displayflex {
+    display: flex;
+    margin: 2% 10%;
+}
+
+.new-box {
+    background-color: rgba(228, 226, 226, 0.384);
+    border-radius: 10px;
+    padding: 80px 0px 0px 30px;
+    margin: 30px 20px;
+    width: 100%;
+    justify-content: center;
+    font-size: 30px;
+    /* color: gray; */
+}
+
+#newbox1 {
+    background-color: #d2dee060;
+}
+
+#newbox2 {
+    background-color: #d9a6a632;
+}
+
+#newbox3 {
+    background-color: #fff4d68d;
+}
+
+
+/* new-box2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(228, 226, 226, 0.384);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+} */
+
+/* 4th part of css */
+
+.footer {
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 40px 0 40px 0;
+    /* margin-top: 20px; */
+}
+
+.font {
+    font-family: cursive;
+    font-size: 50px;
+    color: #ff5959;
+}
