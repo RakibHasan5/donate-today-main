@@ -4,7 +4,7 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-/* !st part */
+/* --------1st part css---------- */
 .banner-area {
     background-image: url(images/donation7.jpg);
     background-repeat: no-repeat;
@@ -35,28 +35,18 @@ body {
 
 
 
+/*---------- 2nd part of css -----------*/
 
-
-
-
-
-
-
-
-
-
-/* 2nd part of css */
 .middle-text-area {
     text-align: center;
     padding: 100px 0px;
-    /* font-size: 30px; */
 }
 
 #text-size {
     font-size: 60px;
 }
 
-#text-size2 {
+#text-size-2 {
     color: rgb(152, 148, 148);
 }
 
@@ -118,10 +108,11 @@ body {
     border-radius: 10px;
 }
 
-/* 3rd part of css */
 
 
-.middle2-text-area {
+/*------------ 3rd part of css -------------*/
+
+.middle-text-area-2 {
     text-align: center;
     margin: 200px 0 50px 0;
 }
@@ -139,7 +130,6 @@ body {
     width: 100%;
     justify-content: center;
     font-size: 30px;
-    /* color: gray; */
 }
 
 #newbox1 {
@@ -155,29 +145,21 @@ body {
 }
 
 
-/* new-box2 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: rgba(228, 226, 226, 0.384);
-    border-radius: 10px;
-    padding: 10px;
-    margin: 10px;
-    width: 150px;
-    height: 150px;
-} */
 
-/* 4th part of css */
+/*--------- 4th part of css --------------*/
 
-.footer {
+footer {
+    margin-top: 200px;
+}
+
+.footer-area {
     text-align: center;
     color: white;
     background-color: black;
     padding: 40px 0 40px 0;
-    /* margin-top: 20px; */
 }
 
-.font {
+.font-design {
     font-family: cursive;
     font-size: 50px;
     color: #ff5959;
